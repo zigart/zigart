@@ -61,7 +61,7 @@ Simulaciones con parámetros variables. Trabajo académico para Física I de la 
 
 ## Contacto
 
-[LinkedIn ↗](https://www.linkedin.com/in/agustinzigart-frontend/)
+[LinkedIn ↗](https://www.linkedin.com/in/agustinzigart/)
 
 Para conversar sobre un proyecto, podés abrir un issue en su repositorio.
 
