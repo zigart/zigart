@@ -1,18 +1,70 @@
-# Hola, soy Agustín Zigart 👋
+<div align="center">
 
-Me enfoco en crear herramientas de software que resuelvan necesidades concretas y simplifiquen tareas. Estoy en Buenos Aires, Argentina.
+# Agustín Zigart
+
+### Herramientas de software para resolver necesidades concretas.
+
+Crear aplicaciones útiles. Simplificar tareas.
+
+Buenos Aires, Argentina
+
+[Proyectos](#proyectos-destacados) &nbsp; · &nbsp; [Sobre mí](#sobre-mí) &nbsp; · &nbsp; [Contacto](#contacto)
+
+</div>
+
+---
+
+## Sobre mí
+
+Me enfoco en crear herramientas de software que resuelvan necesidades concretas y simplifiquen tareas. En este perfil comparto proyectos personales y trabajos académicos.
 
 ## Proyectos destacados
 
-### [SSHuttle](https://github.com/zigart/SSHuttle)
-Proyecto en desarrollo para la administración de servidores. Su objetivo es reunir acceso SSH, gestión de archivos SFTP y monitoreo en una misma aplicación.
+<table>
+<tr>
+<td>
 
-### [Laboratorio electrostático](https://github.com/zigart/simulador-distribuciones-cargas)
-Simulador de distribuciones de carga concéntricas para esferas y cilindros, desarrollado con React y Vite, sin backend.
+### 🖥️ SSHuttle
 
-### [Simulación de movimiento armónico simple](https://github.com/zigart/simulacion-mas)
-Proyecto académico de Física I de la Universidad Nacional de Tres de Febrero: simulaciones con parámetros variables para explorar el movimiento armónico simple.
+**Administración de servidores en una misma aplicación.**
+
+Proyecto en desarrollo cuyo objetivo es reunir acceso SSH, gestión de archivos SFTP y monitoreo en una interfaz integrada.
+
+[Explorar el proyecto →](https://github.com/zigart/SSHuttle)
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ⚡ Laboratorio electrostático
+
+Simulador de distribuciones de carga concéntricas para esferas y cilindros. Aplicación con React y Vite, sin backend.
+
+[Ver repositorio →](https://github.com/zigart/simulador-distribuciones-cargas)
+
+</td>
+<td width="50%" valign="top">
+
+### 〰️ Movimiento armónico simple
+
+Simulaciones con parámetros variables. Trabajo académico para Física I de la Universidad Nacional de Tres de Febrero.
+
+[Ver repositorio →](https://github.com/zigart/simulacion-mas)
+
+</td>
+</tr>
+</table>
 
 ## Contacto
 
-Podés encontrarme en [GitHub](https://github.com/zigart) y abrir un issue en el repositorio correspondiente para conversar sobre un proyecto.
+Para conversar sobre un proyecto, podés abrir un issue en su repositorio.
+
+<div align="center">
+
+[Ver todos mis repositorios ↗](https://github.com/zigart?tab=repositories)
+
+</div>
