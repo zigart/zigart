@@ -1,8 +1,6 @@
 # Hola, soy Agustín Zigart 👋
 
-Desarrollo herramientas en **Rust** y simulaciones interactivas con **JavaScript**. Estoy en Buenos Aires, Argentina.
-
-Me interesa construir aplicaciones útiles y explorar cómo el software permite visualizar y comprender fenómenos físicos.
+Me enfoco en crear herramientas de software que resuelvan necesidades concretas y simplifiquen tareas. Estoy en Buenos Aires, Argentina.
 
 ## Proyectos destacados
 
@@ -14,10 +12,6 @@ Simulador de distribuciones de carga concéntricas para esferas y cilindros, des
 
 ### [Simulación de movimiento armónico simple](https://github.com/zigart/simulacion-mas)
 Proyecto académico de Física I de la Universidad Nacional de Tres de Febrero: simulaciones con parámetros variables para explorar el movimiento armónico simple.
-
-## Tecnologías en mis repositorios públicos
-
-Rust · JavaScript · React · Vite · Java · Go
 
 ## Contacto
 
